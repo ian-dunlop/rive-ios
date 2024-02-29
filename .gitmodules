@@ -1,3 +1,4 @@
 [submodule "submodules/rive-cpp"]
 	path = submodules/rive-cpp
-	url = https://github.com/rive-app/rive-cpp.git
+	url = https://github.com/ian-dunlop/rive-cpp.git
+
